@@ -82,7 +82,14 @@ var education = {
         }
     ]
 
-
+var projects = [
+    {
+        "tilte": ,
+        "dates": ,
+        "description": ,
+        "images":
+    }
+]
 
 
 };
